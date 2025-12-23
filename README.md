@@ -1,51 +1,69 @@
 ## Bhavesh 👋  
-**AI / ML Research Engineer — Graph Neural Networks · Financial Fraud · LLM Systems**
+**Applied ML Engineer | Research-Driven Systems · Graph ML · Intelligent Products**
 
-I work on **research-driven machine learning systems** where correctness, reproducibility,  
-and real-world constraints matter more than benchmarks alone.
+I build **machine learning systems and products** grounded in research thinking,  
+but designed with **real-world constraints, deployment realities, and failure modes** in mind.
 
-My current focus is **financial fraud detection using temporal and heterogeneous graphs**,  
-and **LLM-based pipelines for structured knowledge extraction**.
+While I have done deep work in **Graph Neural Networks and financial fraud research**,  
+my current direction is focused on **building end-to-end ML products** — from problem framing  
+and system design to modeling, evaluation, and iteration.
 
-I am particularly interested in **why models fail**, not just when they succeed.
-
----
-
-## 🔬 Current Focus
-- **Temporal & Heterogeneous GNNs** for Bitcoin fraud detection  
-- **Negative-result analysis** in graph + tabular learning  
-- **Evaluation-first LLM pipelines** (PDF → schema-validated JSON)
+I care less about *models in isolation* and more about **systems that actually work**.
 
 ---
 
-## 🧠 Research Interests
-- Graph Representation Learning  
-- Temporal Networks & Dynamic Graphs  
-- Anomaly & Fraud Detection  
-- Reproducible ML Systems
+## 🔧 Current Direction
+- Building **production-oriented ML systems**  
+- Translating research insights into **usable, maintainable products**  
+- Designing ML pipelines with **evaluation, monitoring, and constraints first**
+
+(Research remains a strong foundation — not the final destination.)
 
 ---
 
-## 📌 Selected Work
+## 🧠 Technical Interests
+- Applied Machine Learning & ML Engineering  
+- Graph-based Learning (Fraud, Anomalies, Structured Data)  
+- Predictive Systems & Industrial ML  
+- Evaluation-driven AI and failure analysis
+
+---
+
+## 📌 Selected Work (Research + Systems)
 
 | Project | Focus | Notes |
 |------|------|------|
-| **[TRDGNN](https://github.com/BhaveshBytess/TRDGNN)** | Temporal GNNs for Bitcoin Fraud | Flagship project with multiple architectural contributions and publication-ready analysis |
-| **[Research-Paper-Analyzer](https://github.com/BhaveshBytess/Research-Paper-Analyzer)** | LLM-based Evidence Extraction | PDF → structured JSON with grounding, numeric consistency, and latency constraints |
-| **[GraphTabular-FraudFusion](https://github.com/BhaveshBytess/GraphTabular-FraudFusion)** | Negative Results Study | Why graph embeddings do *not* always improve XGBoost — rigor over hype |
+| **[TRDGNN](https://github.com/BhaveshBytess/TRDGNN)** | Temporal GNNs for Bitcoin Fraud | Flagship research project with architectural contributions and publication-ready analysis |
+| **[Research-Paper-Analyzer](https://github.com/BhaveshBytess/Research-Paper-Analyzer)** | LLM-based Information Extraction | PDF → structured JSON with grounding, numeric consistency, and latency constraints |
+| **[GraphTabular-FraudFusion](https://github.com/BhaveshBytess/GraphTabular-FraudFusion)** | Graph + Tabular ML | Negative-result study showing when graph embeddings do *not* improve XGBoost |
+
+These projects represent my **research foundation** — the same rigor I now apply to product-focused ML systems.
 
 ---
 
 ## 🛠 Technical Stack
-- **Languages:** Python, C++  
-- **ML/DL:** PyTorch, PyTorch Geometric, scikit-learn  
-- **Graphs:** NetworkX, PyG  
-- **LLMs:** Prompt engineering, evaluation pipelines  
-- **Tooling:** Git, Linux, reproducible experiments
+
+### Core Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### ML & Applied AI
+- PyTorch Geometric (GNNs)
+- scikit-learn
+- Feature engineering & evaluation pipelines
+- Failure analysis & ablation studies
+
+### Systems & Engineering
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Principles
-> Truth over prose.  
-> Structure before scale.  
-> Measure what actually matters.
+## 📐 How I Think
+> Research teaches *why*.  
+> Engineering decides *what survives reality*.  
+> Products demand *both*.
+
+I optimize for **clarity, correctness, and long-term usefulness** — not hype.
+
