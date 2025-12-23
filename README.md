@@ -77,4 +77,4 @@ I optimize for **clarity, correctness, and long-term usefulness** — not hype.
 
 📫 **Connect**  
 - GitHub: https://github.com/BhaveshBytess  
-- LinkedIn: YOUR_LINKEDIN_URL_HERE
+- LinkedIn: www.linkedin.com/in/bhavesh-ai
